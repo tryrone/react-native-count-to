@@ -1,0 +1,44 @@
+{
+  "name": "react-native-count-to",
+  "title": "React Native Count To",
+  "version": "0.0.1",
+  "description": "Heavily customizable counter component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eventides/react-native-count-to.git"
+  },
+  "keywords": [
+    "react-native",
+    "counter",
+    "count",
+    "count to",
+    "count-to",
+    "increment",
+    "animated counter",
+    "count-up",
+    "count up to",
+    "android",
+    "animated counter",
+    "counting",
+    "countdown",
+    "count-down",
+    "count down to"
+  ],
+  "author": {
+    "name": "Rasmus Hanning",
+    "email": "rasmus@hanning.se"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}

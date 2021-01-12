@@ -5,6 +5,15 @@
 
 A customizable React Native component that gradually counts from a number to a target number. Has support for slowing down the counting when counter is approaching target number.
 
+## Examples
+
+**Regular**<br >
+![3090reg](https://user-images.githubusercontent.com/77272390/104326693-4ca69c80-54ea-11eb-9945-6b7f836d0826.gif)
+
+
+**With slow counting**
+
+![3090slow](https://user-images.githubusercontent.com/77272390/104326741-5af4b880-54ea-11eb-9a63-02ee22607c33.gif)
 
 ## Installation
 To install the module:
